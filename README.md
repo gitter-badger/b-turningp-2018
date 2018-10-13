@@ -1,2 +1,1 @@
-# Team B
-## Turning Point 2018
+# Team B - Turning Point 2018
